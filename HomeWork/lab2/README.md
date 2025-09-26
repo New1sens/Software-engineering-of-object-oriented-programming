@@ -1,1 +1,1 @@
-![Описание скриншота](.HomeWork/lab2/java1.jpg)
+![Описание скриншота](.HomeWork/lab2/images/result.jpg)
