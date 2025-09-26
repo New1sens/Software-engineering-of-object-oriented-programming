@@ -1,6 +1,0 @@
-#  
-
-- commonJS  
-- ES-module  
-
----  
