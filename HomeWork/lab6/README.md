@@ -1,3 +1,3 @@
 ### Результат работы программы
 
-(./images/result.png)
+(result.png)
