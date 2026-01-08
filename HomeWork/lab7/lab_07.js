@@ -38,10 +38,10 @@ async function parseHockey() {
       });
     });
 
-    fs.writeFileSync('hockey_standings.csv', csv, 'utf8');
-    fs.writeFileSync('hockey_standings.json', JSON.stringify(allTeams, null, 2), 'utf8');
+    fs.writeFileSync('hockey.csv', csv, 'utf8');
+    fs.writeFileSync('hockey.json', JSON.stringify(allTeams, null, 2), 'utf8');
 
-    console.log('Готово! Собрано команд:', allTeams.length);
+    console.log('Собрано команд!:', allTeams.length);
   } catch (err) {
     console.log('Ошибка:', err.message);
   }
