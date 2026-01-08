@@ -1,0 +1,226 @@
+[
+  {
+    "position": 1,
+    "team": "Тампа-Бэй Лайтнинг",
+    "games": 42,
+    "wins": 55,
+    "points": 0
+  },
+  {
+    "position": 2,
+    "team": "Каролина Харрикейнз",
+    "games": 43,
+    "wins": 55,
+    "points": 0
+  },
+  {
+    "position": 3,
+    "team": "Монреаль Канадиенс",
+    "games": 43,
+    "wins": 54,
+    "points": 0
+  },
+  {
+    "position": 4,
+    "team": "Детройт Ред Уингз",
+    "games": 44,
+    "wins": 54,
+    "points": 0
+  },
+  {
+    "position": 5,
+    "team": "Нью-Йорк Айлендерс",
+    "games": 43,
+    "wins": 52,
+    "points": 0
+  },
+  {
+    "position": 6,
+    "team": "Филадельфия Флайерз",
+    "games": 41,
+    "wins": 51,
+    "points": 0
+  },
+  {
+    "position": 7,
+    "team": "Вашингтон Кэпиталз",
+    "games": 44,
+    "wins": 50,
+    "points": 0
+  },
+  {
+    "position": 8,
+    "team": "Питтсбург Пингвинз",
+    "games": 41,
+    "wins": 49,
+    "points": 0
+  },
+  {
+    "position": 9,
+    "team": "Баффало Сэйбрз",
+    "games": 41,
+    "wins": 48,
+    "points": 0
+  },
+  {
+    "position": 10,
+    "team": "Флорида Пантерз",
+    "games": 42,
+    "wins": 47,
+    "points": 0
+  },
+  {
+    "position": 11,
+    "team": "Торонто Мэйпл Лифс",
+    "games": 42,
+    "wins": 47,
+    "points": 0
+  },
+  {
+    "position": 12,
+    "team": "Бостон Брюинз",
+    "games": 43,
+    "wins": 46,
+    "points": 0
+  },
+  {
+    "position": 13,
+    "team": "Нью-Джерси Дэвилз",
+    "games": 43,
+    "wins": 46,
+    "points": 0
+  },
+  {
+    "position": 14,
+    "team": "Нью-Йорк Рейнджерс",
+    "games": 44,
+    "wins": 46,
+    "points": 0
+  },
+  {
+    "position": 15,
+    "team": "Оттава Сенаторз",
+    "games": 42,
+    "wins": 45,
+    "points": 0
+  },
+  {
+    "position": 16,
+    "team": "Коламбус Блю Джекетс",
+    "games": 42,
+    "wins": 43,
+    "points": 0
+  },
+  {
+    "position": 1,
+    "team": "Колорадо Эвеланш",
+    "games": 42,
+    "wins": 69,
+    "points": 0
+  },
+  {
+    "position": 2,
+    "team": "Даллас Старз",
+    "games": 44,
+    "wins": 60,
+    "points": 0
+  },
+  {
+    "position": 3,
+    "team": "Миннесота Уайлд",
+    "games": 44,
+    "wins": 58,
+    "points": 0
+  },
+  {
+    "position": 4,
+    "team": "Вегас Голден Найтс",
+    "games": 41,
+    "wins": 48,
+    "points": 0
+  },
+  {
+    "position": 5,
+    "team": "Эдмонтон Ойлерз",
+    "games": 43,
+    "wins": 48,
+    "points": 0
+  },
+  {
+    "position": 6,
+    "team": "Сиэтл Кракен",
+    "games": 41,
+    "wins": 47,
+    "points": 0
+  },
+  {
+    "position": 7,
+    "team": "Сан-Хосе Шаркс",
+    "games": 43,
+    "wins": 47,
+    "points": 0
+  },
+  {
+    "position": 8,
+    "team": "Лос-Анджелес Кингз",
+    "games": 42,
+    "wins": 46,
+    "points": 0
+  },
+  {
+    "position": 9,
+    "team": "Анахайм Дакс",
+    "games": 43,
+    "wins": 45,
+    "points": 0
+  },
+  {
+    "position": 10,
+    "team": "Юта Мамонт",
+    "games": 44,
+    "wins": 45,
+    "points": 0
+  },
+  {
+    "position": 11,
+    "team": "Чикаго Блэкхоукс",
+    "games": 43,
+    "wins": 43,
+    "points": 0
+  },
+  {
+    "position": 12,
+    "team": "Нэшвилл Предаторз",
+    "games": 42,
+    "wins": 42,
+    "points": 0
+  },
+  {
+    "position": 13,
+    "team": "Сент-Луис Блюз",
+    "games": 44,
+    "wins": 42,
+    "points": 0
+  },
+  {
+    "position": 14,
+    "team": "Калгари Флэймз",
+    "games": 43,
+    "wins": 40,
+    "points": 0
+  },
+  {
+    "position": 15,
+    "team": "Ванкувер Кэнакс",
+    "games": 42,
+    "wins": 37,
+    "points": 0
+  },
+  {
+    "position": 16,
+    "team": "Виннипег Джетс",
+    "games": 41,
+    "wins": 35,
+    "points": 0
+  }
+]
