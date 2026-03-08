@@ -8,10 +8,9 @@ const users = [
     "Соловьев Рустам Фардатович",
     "Фёдорова Елена Дмитриевна"
 ];
-
-const re1 = /^([А-ЯЁ][а-яё-]+)\s+([А-ЯЁ][а-яё-]+)\s+[А-ЯЁ][а-яё-]+$/;
+const re1 = /^([А-ЯЁа-яё]+)\s+([А-ЯЁа-яё]+)\s+([А-ЯЁа-яё]+)+$/;
 
 users.forEach(user => {
-    const result = user.replace(re1, "$2 $1");
+    const result = user.replace(re1, "$2 $1"); 
     console.log(result);
 });
