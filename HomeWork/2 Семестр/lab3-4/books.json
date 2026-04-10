@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "Оруэлл",
+    "isbn": "11111",
+    "total": 5,
+    "available": 2
+  },
+  {
+    "id": 2,
+    "title": "Чужие дети",
+    "author": "Егоров",
+    "isbn": "11112",
+    "total": 6,
+    "available": 5
+  },
+  {
+    "id": 3,
+    "title": "Мертвые Души",
+    "author": "Гоголь",
+    "isbn": "11162",
+    "total": 12,
+    "available": 10
+  }
+]
