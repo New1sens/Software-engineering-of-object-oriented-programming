@@ -1,0 +1,36 @@
+[
+  {
+    "firstName": "Егор",
+    "lastName": "Плотников",
+    "cardNumber": "u1",
+    "books": [
+      "11162"
+    ]
+  },
+  {
+    "firstName": "Иван",
+    "lastName": "Петров",
+    "cardNumber": "u2",
+    "books": [
+      "11112",
+      "11111",
+      "11162"
+    ]
+  },
+  {
+    "firstName": "Тёма",
+    "lastName": "Темнов",
+    "cardNumber": "u3",
+    "books": [
+      "11111"
+    ]
+  },
+  {
+    "firstName": "Никита",
+    "lastName": "Светлов",
+    "cardNumber": "u4",
+    "books": [
+      "11111"
+    ]
+  }
+]
